@@ -1,0 +1,40 @@
+/*header formatting*/
+header {
+    background-color: white;
+    padding: 10px;
+    text-align: center;
+    font-size: 15px;
+    color: black;
+}
+
+/*Navigator formatting*/
+nav {
+    float: center;
+    text-align: center;
+    background-color:black;
+    padding: 20px;
+    color:white;
+}
+
+/*Footer*/
+div#footer {
+    background-color: #40E0D0;
+    height: 200px;
+    padding: 10px;
+    text-align: center;
+    color:black;
+}
+
+/*Link animation*/
+a:link, a:visited {
+    color:#ffff;
+    text-decoration:none;
+}
+a:hover, a:active {
+  /*color: white;*/
+  text-decoration:underline
+}
+/*Welcome*/
+div#content {
+    text-align: right;
+}
